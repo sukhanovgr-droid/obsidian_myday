@@ -1,0 +1,2 @@
+PASS: syntax, 50/10, 25/5, stopwatch, duplicate protection, overlap rejection.
+Obsidian loading, UI, iPhone 14 Pro, installation and iOS background behavior: NOT TESTED.

@@ -1,0 +1,9 @@
+{
+  "id": "my-day-phone",
+  "name": "Мой день — iPhone",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Мобильный недельный план, Pomodoro 50/10 и 25/5, секундомер и дневной журнал.",
+  "author": "Personal tools",
+  "isDesktopOnly": false
+}
